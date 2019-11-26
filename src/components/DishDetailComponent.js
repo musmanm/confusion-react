@@ -1,6 +1,5 @@
 import React from 'react';
 import {Card, CardImg, CardImgOverlay, CardText, CardBody, CardTitle} from 'reactstrap';
-import { interval } from 'rxjs';
 import '../App.css';
 
 function RenderDish({dish}){
